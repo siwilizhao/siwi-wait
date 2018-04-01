@@ -1,0 +1,24 @@
+{
+  "name": "siwi-wait",
+  "version": "1.0.0",
+  "description": "阻塞执行 在异步函数中等待指定时间  # install",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siwilizhao/siwi-wait.git"
+  },
+  "keywords": ["wait", "await", "siwi-wait", "siwi", "siwilizhao"],
+  "author": "siwi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siwilizhao/siwi-wait/issues"
+  },
+  "homepage": "https://github.com/siwilizhao/siwi-wait#readme"
+}
