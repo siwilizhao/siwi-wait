@@ -1,7 +1,7 @@
 {
   "name": "siwi-wait",
   "version": "1.0.0",
-  "description": "阻塞执行 在异步函数中等待指定时间  # install",
+  "description": "阻塞执行 在异步函数中等待指定时间",
   "main": "index.js",
   "directories": {
     "lib": "lib",
