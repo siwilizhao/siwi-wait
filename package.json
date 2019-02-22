@@ -1,24 +1,36 @@
 {
   "name": "siwi-wait",
   "version": "1.0.0",
-  "description": "阻塞执行 在异步函数中等待指定时间",
+  "description": "wait for nodejs",
   "main": "index.js",
   "directories": {
     "lib": "lib",
     "test": "test"
   },
   "scripts": {
-    "test": "node test/test.js"
+    "test": "./node_modules/mocha/bin/mocha -t 10000 test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/siwilizhao/siwi-wait.git"
   },
-  "keywords": ["wait", "await", "siwi-wait", "siwi", "siwilizhao"],
+  "keywords": [
+    "wait",
+    "await",
+    "siwi-wait",
+    "siwi",
+    "siwilizhao",
+    "sleep"
+  ],
   "author": "siwi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/siwilizhao/siwi-wait/issues"
   },
-  "homepage": "https://github.com/siwilizhao/siwi-wait#readme"
+  "homepage": "https://github.com/siwilizhao/siwi-wait#readme",
+  "devDependencies": {
+    "@types/node": "^11.9.4",
+    "chai": "^4.2.0",
+    "mocha": "^6.0.1"
+  }
 }
