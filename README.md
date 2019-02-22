@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/siwilizhao/siwi-wait.svg?branch=master)](https://travis-ci.org/siwilizhao/siwi-wait)
 [![npm](https://img.shields.io/npm/v/siwi-wait.svg)](https://www.npmjs.com/package/siwi-wait)
 [![npm](https://img.shields.io/npm/dt/siwi-wait.svg)](https://www.npmjs.com/package/siwi-wait)
-[![Github file size](https://img.shields.io/github/size/siwilizhao/siwi-wait/lib/wait.js.svg)](https://github.com/siwilizhao/siwi-wait/lib/wait.js)
+[![Github file size](https://img.shields.io/github/size/siwilizhao/siwi-wait/lib/index.js.svg)](https://github.com/siwilizhao/siwi-wait/lib/index.js)
 
 # siwi-wait
 阻塞执行 在异步函数中等待指定时间 
