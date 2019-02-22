@@ -1,6 +1,6 @@
 {
   "name": "siwi-wait",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wait for nodejs",
   "main": "index.js",
   "directories": {
